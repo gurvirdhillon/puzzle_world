@@ -28,7 +28,9 @@
 
     (:goal 
         (and 
-            (at btile location4)
+            (at btile location3)
+            (at wtile1 location1)
+            (at wtile2 location2)
         )
     )
     (:metric minimize (total-cost))

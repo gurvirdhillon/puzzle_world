@@ -46,7 +46,7 @@
             (at ?tile ?to)
             (not (empty ?to))
             (empty ?from)
-            (increase (total-cost) 2)
+            (increase (total-cost) 1)
         )
     )
 )
